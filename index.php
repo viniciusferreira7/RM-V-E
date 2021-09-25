@@ -37,7 +37,7 @@
 	<div class="clear"></div>
 	</div><!--container-->
 </header>
-/*
+
 <?php
 	if(isset($_GET['url'])){
 		if(file_exists($_GET['url']).'.html'){
