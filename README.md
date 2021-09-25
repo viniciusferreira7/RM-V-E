@@ -8,6 +8,6 @@ Um site feito para pessoas que gostam de carros antigos.
 
 <BR/>HTML5
 <br/>CSS3
-<br/>Javascript
+<br/>JavaScript
 <br/>jQuery
 <br/>PHP
