@@ -48,7 +48,7 @@
 	}else{
 		include('home.html');
 	}
-?>-->
+?>
 
 
 <footer>
