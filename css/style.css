@@ -671,7 +671,9 @@ section.sobre .container{
 section.sobre .img-destaque-sobre{
 	width: 100%;
 	padding-top:60%;
-	background-color: rgb(220,220,220);
+	background-image:url(../imagens/corvette.jpg);
+	background-size: cover;
+	background-position: center;
 }
 
 section.sobre .descricao-autor{
@@ -697,7 +699,10 @@ section.sobre .descricao-autor{
 	width: 30%;
 	padding-top:30%;
 	float: left;
-	background-color: rgb(220,220,220);
+	background-image:url(../imagens/chevrolet.jpg);
+	background-size: 100%;
+	background-position: top;
+	background-repeat: no-repeat;	
 }
 
 .descricao-autor2 p{
